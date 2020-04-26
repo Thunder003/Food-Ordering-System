@@ -1,0 +1,15 @@
+body
+{
+	background: linear-gradient(90deg, rgba(131,58,180,0) 0%, rgba(22,22,21,0.30325633671437324) 6%, rgba(0,0,0,0) 99%);
+}
+.abc{
+	border: 2px solid black;
+}	
+
+.sh{
+	
+	text-shadow: 1px 1px 2px #000000;
+}
+
+
+
